@@ -35,8 +35,9 @@ nav {
   overflow: hidden;
   position: sticky;
   top: 0;
+  z-index: 2;
   /* padding: 5px; */
-  position: fixed;
+  /* position: fixed; */
 }
 
 nav ul {
